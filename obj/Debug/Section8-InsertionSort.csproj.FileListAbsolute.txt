@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-InsertionSort\Section8-InsertionSort\bin\Debug\Section8-InsertionSort.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-InsertionSort\Section8-InsertionSort\bin\Debug\Section8-InsertionSort.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-InsertionSort\Section8-InsertionSort\bin\Debug\Section8-InsertionSort.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-InsertionSort\Section8-InsertionSort\obj\Debug\Section8-InsertionSort.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-InsertionSort\Section8-InsertionSort\obj\Debug\Section8-InsertionSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-InsertionSort\Section8-InsertionSort\obj\Debug\Section8-InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-InsertionSort\Section8-InsertionSort\obj\Debug\Section8-InsertionSort.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-InsertionSort\Section8-InsertionSort\obj\Debug\Section8-InsertionSort.pdb
